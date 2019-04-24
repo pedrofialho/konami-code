@@ -13,6 +13,6 @@ Include the script in your page:
 Add an event listener:
 
 ```js
-document.addEventListener('konamicode', () => alert('Hello, world!'));
+window.addEventListener('konamicode', () => alert('Hello, world!'));
 ```
 and you're good to go!
