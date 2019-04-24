@@ -5,6 +5,7 @@
   "main": "src/konami-code.js",
   "scripts": {
     "test": "standard",
+    "demo": "http-server dist",
     "build": "gulp"
   },
   "repository": {
