@@ -1,6 +1,6 @@
 # konami-code
 
-__konami-code__ is an event-based easter egg for websites. It creates an event called `konamicode` that fires whenever the [Konami Code sequence](https://en.wikipedia.org/wiki/Konami_Code) is succesfully entered in a webpage.
+__konami-code__ is an event-based easter egg for websites. It creates an event called `konamicode` that fires whenever the [Konami Code sequence](https://en.wikipedia.org/wiki/Konami_Code) is successfully entered in a webpage.
 
 ## Basic usage
 
